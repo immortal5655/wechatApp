@@ -1,0 +1,29 @@
+.tip {
+  height: 75rpx;
+  width: 325rpx;
+  margin-top: 25rpx;
+  text-align: center;
+  line-height: 72rpx;
+  color: #fff;
+  background-color: #FF7070;
+  box-shadow: 5rpx 5rpx 5rpx #F28665 inset;
+  border-top-right-radius: 50rpx;
+  border-bottom-right-radius: 50rpx;
+  font-size: 32rpx;
+ 
+  text-align: center;
+}
+
+.item {
+  margin: 10rpx 30rpx;
+  border-bottom: 2.5px dashed #DE7B54;
+  padding: 25rpx;
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn {
+  color: red;
+  padding: 5rpx 20rpx;
+  border: 1px solid red;
+}

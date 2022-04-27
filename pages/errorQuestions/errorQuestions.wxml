@@ -1,0 +1,48 @@
+
+
+<view wx:if="{{total>0}}">
+  <view class="head">
+    <view class="tip">当前第{{current+1}}题/共{{total}}道错题</view>
+    <view class="type">{{subject.type2}}</view>
+  </view>
+
+  <view class='info'>
+    <view class='title'>{{subject.title}}</view>
+    <view wx:for="{{subject.options}}" class="item">
+      <text class="{{subject.userSelect==item.code?'red':''}}">{{item.code}}:{{item.option}}</text>
+    </view>
+  </view>
+  <view class='opt'>
+    <view class="rigth_option">正确答案是：
+      <text wx:for="{{subject.answer}}">{{item}}</text>
+    </view>
+    <view class="red">
+      您的选择是：{{subject.userSelect}}
+    </view>
+  </view>
+
+  <view class='jiexi' wx:if="{{subject.explain}}">
+    <text>解析：</text>
+    <view>{{subject.explain}}</view>
+  </view>
+  
+<view class="buttons">
+  <view class="btn_root">
+   
+    <view  class ="btn_jmp" bindtap="pre">
+      <text decode="true">&lt; 上一道&nbsp;&nbsp;</text>
+    </view>
+
+    <view class='delbtn' bindtap="removeError" data-subject="{{subject}}">×删除错题</view>
+
+    <view class ="btn_jmp" bindtap="next">
+      <text decode="true">&nbsp;&nbsp;下一道 &gt;</text>
+    </view>
+  </view>
+  <!-- <view class='delbtn' bindtap="removeError" data-subject="{{subject}}">×删除错题</view> -->
+</view>
+
+</view>
+<view wx:else style="text-align:center;margin:60rpx">
+  您真棒，没有错题啦
+</view>

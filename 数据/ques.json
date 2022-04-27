@@ -1,0 +1,1554 @@
+{
+	"_id": "1",
+	"type": "句式",
+	"type2": "翻译常用句式",
+	"answer": [
+		"A"
+	],
+	"title": "may as well not…as…",
+	"explain": "与其……不如不……",
+	"options": [
+		{
+			"code": "A",
+			"option": "记住了"
+		},
+		{
+			"code": "B",
+			"option": "不清楚"
+		}
+	]
+}
+{
+	"_id": "2",
+	"type": "句式",
+	"type2": "翻译常用句式",
+	"answer": [
+		"A"
+	],
+	"title": "As far as .... concerned...",
+	"explain": "就…而言/有关",
+	"options": [
+		{
+			"code": "A",
+			"option": "记住了"
+		},
+		{
+			"code": "B",
+			"option": "不清楚"
+		}
+	]
+}
+{
+	"_id": "3",
+	"type": "句式",
+	"type2": "翻译常用句式",
+	"answer": [
+		"A"
+	],
+	"title": ".It can be said with certainty that...",
+	"explain": "可以肯定地说...",
+	"options": [
+		{
+			"code": "A",
+			"option": "记住了"
+		},
+		{
+			"code": "B",
+			"option": "不清楚"
+		}
+	]
+}
+{
+	"_id": "4",
+	"type": "句式",
+	"type2": "翻译常用句式",
+	"answer": [
+		"A"
+	],
+	"title": "As the proverb says, …",
+	"explain": "正如谚语所说的，…",
+	"options": [
+		{
+			"code": "A",
+			"option": "记住了"
+		},
+		{
+			"code": "B",
+			"option": "不清楚"
+		}
+	]
+}
+{
+	"_id": "5",
+	"type": "句式",
+	"type2": "翻译常用句式",
+	"answer": [
+		"A"
+	],
+	"title": "It has to be noticed that…",
+	"explain": "它必须注意到，...",
+	"options": [
+		{
+			"code": "A",
+			"option": "记住了"
+		},
+		{
+			"code": "B",
+			"option": "不清楚"
+		}
+	]
+}
+{
+	"_id": "6",
+	"type": "句式",
+	"type2": "翻译常用句式",
+	"answer": [
+		"A"
+	],
+	"title": "It’ s generally recognized that...",
+	"explain": "它普遍认为...",
+	"options": [
+		{
+			"code": "A",
+			"option": "记住了"
+		},
+		{
+			"code": "B",
+			"option": "不清楚"
+		}
+	]
+}
+{
+	"_id": "7",
+	"type": "句式",
+	"type2": "翻译常用句式",
+	"answer": [
+		"A"
+	],
+	"title": ".It’s likely that ...",
+	"explain": "这可能是因为...",
+	"options": [
+		{
+			"code": "A",
+			"option": "记住了"
+		},
+		{
+			"code": "B",
+			"option": "不清楚"
+		}
+	]
+}
+{
+	"_id": "8",
+	"type": "句式",
+	"type2": "翻译常用句式",
+	"answer": [
+		"A"
+	],
+	"title": "It’ s hardly that…",
+	"explain": "这是很难...",
+	"options": [
+		{
+			"code": "A",
+			"option": "记住了"
+		},
+		{
+			"code": "B",
+			"option": "不清楚"
+		}
+	]
+}
+{
+	"_id": "9",
+	"type": "句式",
+	"type2": "翻译常用句式",
+	"answer": [
+		"A"
+	],
+	"title": "There’s no denying the fact that...",
+	"explain": "毫无疑问，无可否认…",
+	"options": [
+		{
+			"code": "A",
+			"option": "记住了"
+		},
+		{
+			"code": "B",
+			"option": "不清楚"
+		}
+	]
+}
+{
+	"_id": "10",
+	"type": "句式",
+	"type2": "翻译常用句式",
+	"answer": [
+		"A"
+	],
+	"title": "What calls for special attention is that...",
+	"explain": "需要特别注意的是…",
+	"options": [
+		{
+			"code": "A",
+			"option": "记住了"
+		},
+		{
+			"code": "B",
+			"option": "不清楚"
+		}
+	]
+}
+{
+	"_id": "11",
+	"type": "六级词汇",
+	"type2": "六级考纲词汇",
+	"answer": [
+		"A"
+	],
+	"title": "strip",
+	"explain": " Please strip off your clothes for the medical exam.",
+	"options": [
+		{
+			"code": "A",
+			"option": "v.剥去，夺去"
+		},
+		{
+			"code": "B",
+			"option": "n.主权"
+		},
+		{
+			"code": "C",
+			"option": "n.动脉；干线"
+		},
+		{
+			"code": "D",
+			"option": "n.边界，边沿"
+		}
+	]
+}
+	
+
+{
+	"_id": "12",
+	"type": "六级词汇",
+	"type2": "六级考纲词汇",
+	"answer": [
+		"C"
+	],
+	"title": "detached",
+	"explain": " This beautiful detached house has a red front door and garage.",
+	"options": [
+		{
+			"code": "A",
+			"option": "n.表现；示威运动"
+		},
+		{
+			"code": "B",
+			"option": "adj.不稳定的"
+		},
+		{
+			"code": "C",
+			"option": "adj.孤立的,分开的"
+		},
+		{
+			"code": "D",
+			"option": "n.空旷地"
+		}
+	]
+}
+	
+{
+	"_id": "13",
+	"type": "六级词汇",
+	"type2": "六级考纲词汇",
+	"answer": [
+		"A"
+	],
+	"title": "aviation",
+	"explain": " Aviation is one of my biggest interests.",
+	"options": [
+		{
+			"code": "A",
+			"option": "n.航空，航空学；"
+		},
+		{
+			"code": "B",
+			"option": "n.部长，大臣"
+		},
+		{
+			"code": "C",
+			"option": "v.漂白，使脱色"
+		},
+		{
+			"code": "D",
+			"option": "v.值得，博得"
+		}
+	]
+}
+	
+{
+	"_id": "14",
+	"type": "六级词汇",
+	"type2": "六级考纲词汇",
+	"answer": [
+		"C"
+	],
+	"title": "martyr",
+	"explain": " He died in the line of duty and was dubbed a martyr.",
+	"options": [
+		{
+			"code": "A",
+			"option": "v.控诉，起诉"
+		},
+		{
+			"code": "B",
+			"option": "adj.热情友好的"
+		},
+		{
+			"code": "C",
+			"option": "v.迫害；n.烈士"
+		},
+		{
+			"code": "D",
+			"option": "v.侵略，侵犯"
+		}
+	]
+}
+
+{
+	"_id": "15",
+	"type": "六级词汇",
+	"type2": "六级考纲词汇",
+	"answer": [
+		"C"
+	],
+	"title": "intervene",
+	"explain": " The only stopped fighting when the teacher intervened.",
+	"options": [
+		{
+			"code": "A",
+			"option": "n.分布,分发"
+		},
+		{
+			"code": "B",
+			"option": "n.贷款"
+		},
+		{
+			"code": "C",
+			"option": "v.干涉，调停"
+		},
+		{
+			"code": "D",
+			"option": "adj.突然地，唐突的"
+		}
+	]
+}
+
+{
+	"_id": "16",
+	"type": "六级词汇",
+	"type2": "六级考纲词汇",
+	"answer": [
+		"D"
+	],
+	"title": "manipulate",
+	"explain": " The man on the stage expertly manipulates the puppets using strings.",
+	"options": [
+		{
+			"code": "A",
+			"option": "v.使…痒"
+		},
+		{
+			"code": "B",
+			"option": "n.双筒望远镜"
+		},
+		{
+			"code": "C",
+			"option": "n.民俗学，民间传说"
+		},
+		{
+			"code": "D",
+			"option": "v.操纵，影响；正骨"
+		}
+	]
+}
+
+{
+	"_id": "17",
+	"type": "六级词汇",
+	"type2": "六级考纲词汇",
+	"answer": [
+		"C"
+	],
+	"title": "luminous",
+	"explain": " The jar of fireflies are luminous and glow at night.",
+	"options": [
+		{
+			"code": "A",
+			"option": "v.苦干；费力地做"
+		},
+		{
+			"code": "B",
+			"option": "n.说明，说明书；指导"
+		},
+		{
+			"code": "C",
+			"option": "adj.发光的；明亮的"
+		},
+		{
+			"code": "D",
+			"option": "v.管理，控制"
+		}
+	]
+}
+
+{
+	"_id": "18",
+	"type": "六级词汇",
+	"type2": "六级考纲词汇",
+	"answer": [
+		"C"
+	],
+	"title": "critical",
+	"explain": " The injured man is in a critical condition, so doctors rush him to the emergency room.",
+	"options": [
+		{
+			"code": "A",
+			"option": "adv.迄今为止"
+		},
+		{
+			"code": "B",
+			"option": "n.节俭，节约"
+		},
+		{
+			"code": "C",
+			"option": "adj.危急的；爱挑剔的"
+		},
+		{
+			"code": "D",
+			"option": "n.（汽车等）点火开关"
+		}
+	]
+}
+
+{
+	"_id": "19",
+	"type": "六级词汇",
+	"type2": "六级考纲词汇",
+	"answer": [
+		"B"
+	],
+	"title": "prosperity",
+	"explain": " The prosperity of the city is evident from this busy nighttime scene.",
+	"options": [
+		{
+			"code": "A",
+			"option": "n.小册子"
+		},
+		{
+			"code": "B",
+			"option": "n.繁荣，兴旺"
+		},
+		{
+			"code": "C",
+			"option": "v.沉没，淹没"
+		},
+		{
+			"code": "D",
+			"option": "n.生态系统"
+		}
+	]
+}
+
+{
+	"_id": "20",
+	"type": "六级词汇",
+	"type2": "六级考纲词汇",
+	"answer": [
+		"A"
+	],
+	"title": "contrive",
+	"explain": " He contrived a clever method to cool his hot noodles.",
+	"options": [
+		{
+			"code": "A",
+			"option": "v.设计，发明"
+		},
+		{
+			"code": "B",
+			"option": "n.坚持不懈"
+		},
+		{
+			"code": "C",
+			"option": "n.疾病"
+		},
+		{
+			"code": "D",
+			"option": "v.单调的，无聊的"
+		}
+	]
+}
+
+{
+	"_id": "21",
+	"type": "六级词汇",
+	"type2": "六级高频词汇",
+	"answer": [
+		"A"
+	],
+	"title": "limelight",
+	"explain": " She enjoys the feeling of being in the limelight.",
+	"options": [
+		{
+			"code": "A",
+			"option": "n.聚光灯"
+		},
+		{
+			"code": "B",
+			"option": "n.摇篮；发源地 "
+		},
+		{
+			"code": "C",
+			"option": " v.驱逐出境"
+		},
+		{
+			"code": "D",
+			"option": "v.预言；预告；推测"
+		}
+	]
+}
+
+
+{
+	"_id": "22",
+	"type": "六级词汇",
+	"type2": "六级高频词汇",
+	"answer": [
+		"A"
+	],
+	"title": "capsule",
+	"explain": " The medicine can be taken in capsule form.",
+	"options": [
+		{
+			"code": "A",
+			"option": "n.胶囊；航天舱"
+		},
+		{
+			"code": "B",
+			"option": "adj.贸易的 "
+		},
+		{
+			"code": "C",
+			"option": "n.档位；齿轮"
+		},
+		{
+			"code": "D",
+			"option": "v.预言；预告；推测"
+		}
+	]
+}
+
+{
+	"_id": "23",
+	"type": "六级词汇",
+	"type2": "六级高频词汇",
+	"answer": [
+		"A"
+	],
+	"title": "paradise",
+	"explain": " The area is a birdwatcher’s paradise.",
+	"options": [
+		{
+			"code": "A",
+			"option": "n.天国，天堂"
+		},
+		{
+			"code": "B",
+			"option": "adj.矮胖的；勇敢的 "
+		},
+		{
+			"code": "C",
+			"option": "n.词缀法"
+		},
+		{
+			"code": "D",
+			"option": "adj.早产的，过早的"
+		}
+	]
+}
+
+{
+	"_id": "24",
+	"type": "六级词汇",
+	"type2": "六级高频词汇",
+	"answer": [
+		"D"
+	],
+	"title": "complacent",
+	"explain": " The complacent driver is too confident and hasn’t noticed the danger on the icy road.",
+	"options": [
+		{
+			"code": "A",
+			"option": "n.热情，热心"
+		},
+		{
+			"code": "B",
+			"option": "v.熊熊燃烧；闪耀"
+		},
+		{
+			"code": "C",
+			"option": "adj.全神贯注的"
+		},
+		{
+			"code": "D",
+			"option": "adj.自满的，得意的"
+		}
+	]
+}
+
+{
+	"_id": "25",
+	"type": "六级词汇",
+	"type2": "六级高频词汇",
+	"answer": [
+		"C"
+	],
+	"title": "tough",
+	"explain": " He looks like a tough guy.",
+	"options": [
+		{
+			"code": "A",
+			"option": "n.会议；讨论会"
+		},
+		{
+			"code": "B",
+			"option": "n.恶化；降级"
+		},
+		{
+			"code": "C",
+			"option": "adj.健壮的，棘手的"
+		},
+		{
+			"code": "D",
+			"option": "v.举止端庄"
+		}
+	]
+}
+
+{
+	"_id": "26",
+	"type": "六级词汇",
+	"type2": "六级高频词汇",
+	"answer": [
+		"A"
+	],
+	"title": "reception",
+	"explain": " The young couple got their room key at the reception of the hotel.",
+	"options": [
+		{
+			"code": "A",
+			"option": "n.前台，接待处"
+		},
+		{
+			"code": "B",
+			"option": "adj.不稳定的；反复无常的"
+		},
+		{
+			"code": "C",
+			"option": "v.撒；下稀疏的雨"
+		},
+		{
+			"code": "D",
+			"option": "adj.肥沃的"
+		}
+	]
+}
+
+{
+	"_id": "27",
+	"type": "六级词汇",
+	"type2": "六级高频词汇",
+	"answer": [
+		"D"
+	],
+	"title": "legitimate",
+	"explain": " Fishing is legitimate there.",
+	"options": [
+		{
+			"code": "A",
+			"option": "n.暗示；含意；卷入"
+		},
+		{
+			"code": "B",
+			"option": "adj.怀有希望的"
+		},
+		{
+			"code": "C",
+			"option": "adj.不新鲜的"
+		},
+		{
+			"code": "D",
+			"option": "adj.合法的，合理的"
+		}
+	]
+}
+	
+{
+	"_id": "28",
+	"type": "六级词汇",
+	"type2": "六级高频词汇",
+	"answer": [
+		"A"
+	],
+	"title": "capsule",
+	"explain": " The medicine can be taken in capsule form.",
+	"options": [
+		{
+			"code": "A",
+			"option": "n.胶囊；航天舱"
+		},
+		{
+			"code": "B",
+			"option": "adj.贸易的 "
+		},
+		{
+			"code": "C",
+			"option": "n.档位；齿轮"
+		},
+		{
+			"code": "D",
+			"option": "v.预言；预告；推测"
+		}
+	]
+}
+
+{
+	"_id": "29",
+	"type": "六级词汇",
+	"type2": "六级高频词汇",
+	"answer": [
+		"C"
+	],
+	"title": "adore",
+	"explain": " Every mother adores her baby.",
+	"options": [
+		{
+			"code": "A",
+			"option": "n.让步；特许"
+		},
+		{
+			"code": "B",
+			"option": "adj.贸易的 "
+		},
+		{
+			"code": "C",
+			"option": "v.喜爱；爱慕；崇拜"
+		},
+		{
+			"code": "D",
+			"option": "adj.奇怪的；陌生的"
+		}
+	]
+}
+
+{
+	"_id": "30",
+	"type": "六级词汇",
+	"type2": "六级高频词汇",
+	"answer": [
+		"C"
+	],
+	"title": "retirement",
+	"explain": " He took up gardening as a hobby in his retirement.",
+	"options": [
+		{
+			"code": "A",
+			"option": "n.陆军中尉，海军上尉"
+		},
+		{
+			"code": "B",
+			"option": "adj.相关联的"
+		},
+		{
+			"code": "C",
+			"option": "n.退休，退休生活"
+		},
+		{
+			"code": "D",
+			"option": "n.接种疫苗"
+		}
+	]
+}
+
+
+{
+	"_id": "31",
+	"type": "四级词汇",
+	"type2": "四级高频词汇",
+	"answer": [
+		"B"
+	],
+	"title": "urge",
+	"explain": " My lawyer has been urging me to make a will.",
+	"options": [
+		{
+			"code": "A",
+			"option": "v.收集，汇编"
+		},
+		{
+			"code": "B",
+			"option": "v.鼓动，鞭策，催促"
+		},
+		{
+			"code": "C",
+			"option": "adj.怀有希望的"
+		},
+		{
+			"code": "D",
+			"option": "n.可见性，能见度"
+		}
+	]
+}
+{
+	"_id": "32",
+	"type": "四级词汇",
+	"type2": "四级高频词汇",
+	"answer": [
+		"A",
+		"C"
+	],
+	"title": "purchase",
+	"explain": " It was decided the school should purchase new software.",
+	"options": [
+		{
+			"code": "A",
+			"option": "v.抓紧，抓牢"
+		},
+		{
+			"code": "B",
+			"option": "v.消灭"
+		},
+		{
+			"code": "C",
+			"option": "n.vt.购买"
+		},
+		{
+			"code": "D",
+			"option": "n.马达，发动机"
+		}
+	]
+}
+{
+	"_id": "33",
+	"type": "四级词汇",
+	"type2": "四级高频词汇",
+	"answer": [
+		"D"
+	],
+	"title": "despise",
+	"explain": " I can never, ever forgive him. I despise him.",
+	"options": [
+		{
+			"code": "A",
+			"option": "prep.尽管，即使"
+		},
+		{
+			"code": "B",
+			"option": "v.降低"
+		},
+		{
+			"code": "C",
+			"option": "n.vt.购买"
+		},
+		{
+			"code": "D",
+			"option": "v.轻视，蔑视，看不起"
+		}
+	]
+}
+{
+	"_id": "34",
+	"type": "四级词汇",
+	"type2": "四级高频词汇",
+	"answer": [
+		"C"
+	],
+	"title": "layman",
+	"explain": " There are basically two types called, in layman's terms, blue and white asbestos.",
+	"options": [
+		{
+			"code": "A",
+			"option": "adj.神的，神圣的"
+		},
+		{
+			"code": "B",
+			"option": "v.降低"
+		},
+		{
+			"code": "C",
+			"option": "n.门外汉，外行"
+		},
+		{
+			"code": "D",
+			"option": "n.铺张浪费"
+		}
+	]
+}
+{
+	"_id": "35",
+	"type": "四级词汇",
+	"type2": "四级高频词汇",
+	"answer": [
+		"A",
+		"D"
+	],
+	"title": "concession",
+	"explain": " We are willing to make any concessions necessary to this end.",
+	"options": [
+		{
+			"code": "A",
+			"option": "n.让步"
+		},
+		{
+			"code": "B",
+			"option": "v.降低"
+		},
+		{
+			"code": "C",
+			"option": "n.门外汉，外行"
+		},
+		{
+			"code": "D",
+			"option": "n.特许权"
+		}
+	]
+}
+{
+	"_id": "36",
+	"type": "四级词汇",
+	"type2": "四级高频词汇",
+	"answer": [
+		"A",
+		"C",
+		"D"
+	],
+	"title": "domestic",
+	"explain": " They only want to solve domestic problems. ",
+	"options": [
+		{
+			"code": "A",
+			"option": "adj.国产的，国内的"
+		},
+		{
+			"code": "B",
+			"option": "v.降低"
+		},
+		{
+			"code": "C",
+			"option": "adj.家庭的"
+		},
+		{
+			"code": "D",
+			"option": "adj.驯养的"
+		}
+	]
+}
+{
+	"_id": "37",
+	"type": "四级词汇",
+	"type2": "四级高频词汇",
+	"answer": [
+		"B"
+	],
+	"title": "response",
+	"explain": " She made no response. ",
+	"options": [
+		{
+			"code": "A",
+			"option": "adj.有益的，有助于...的"
+		},
+		{
+			"code": "B",
+			"option": "n.响应，答复"
+		},
+		{
+			"code": "C",
+			"option": "v.感谢，感激，欣赏"
+		},
+		{
+			"code": "D",
+			"option": "n.定量配给"
+		}
+	]
+}
+{
+	"_id": "38",
+	"type": "四级词汇",
+	"type2": "四级高频词汇",
+	"answer": [
+		"B",
+		"C"
+	],
+	"title": "strain",
+	"explain": " He strained to slowly turn to look out the window besides the bed. ",
+	"options": [
+		{
+			"code": "A",
+			"option": "adj.修辞的"
+		},
+		{
+			"code": "B",
+			"option": "n.负担，压力"
+		},
+		{
+			"code": "C",
+			"option": "v.拉紧"
+		},
+		{
+			"code": "D",
+			"option": "n.定量配给"
+		}
+	]
+}
+{
+	"_id": "39",
+	"type": "四级词汇",
+	"type2": "四级高频词汇",
+	"answer": [
+		"A"
+	],
+	"title": "conference",
+	"explain": " The conference is going to be a lot of extra work. ",
+	"options": [
+		{
+			"code": "A",
+			"option": "n.会议，讨论会"
+		},
+		{
+			"code": "B",
+			"option": "n.负担，压力"
+		},
+		{
+			"code": "C",
+			"option": "v.扭曲，使变形"
+		},
+		{
+			"code": "D",
+			"option": "n.旗帜，横幅"
+		}
+	]
+}
+{
+	"_id": "40",
+	"type": "四级词汇",
+	"type2": "四级高频词汇",
+	"answer": [
+		"C",
+		"D"
+	],
+	"title": "cite",
+	"explain": " It cited their potential appeal to teenagers. ",
+	"options": [
+		{
+			"code": "A",
+			"option": "n.滥用，辱骂"
+		},
+		{
+			"code": "B",
+			"option": "n.对抗"
+		},
+		{
+			"code": "C",
+			"option": "v.引用，引证"
+		},
+		{
+			"code": "D",
+			"option": "v.表彰，嘉奖"
+		}
+	]
+}
+{
+	"_id": "41",
+	"type": "四级词汇",
+	"type2": "四级考纲词汇",
+	"answer": [
+		"D"
+	],
+	"title": "reward",
+	"explain": " Many experts advocate rewarding your child for good behaviour. ",
+	"options": [
+		{
+			"code": "A",
+			"option": "n.循环，重现"
+		},
+		{
+			"code": "B",
+			"option": "n.订阅，捐款"
+		},
+		{
+			"code": "C",
+			"option": "v.引用，引证"
+		},
+		{
+			"code": "D",
+			"option": "n.奖品，回报"
+		}
+	]
+}
+{
+	"_id": "42",
+	"type": "四级词汇",
+	"type2": "四级考纲词汇",
+	"answer": [
+		"A",
+		"C"
+	],
+	"title": "measure",
+	"explain": " We measured the difference in temperature. ",
+	"options": [
+		{
+			"code": "A",
+			"option": "n.措施，尺寸"
+		},
+		{
+			"code": "B",
+			"option": "n.全部节目"
+		},
+		{
+			"code": "C",
+			"option": "v.测量，估量"
+		},
+		{
+			"code": "D",
+			"option": "n.奖品，回报"
+		}
+	]
+}
+{
+	"_id": "43",
+	"type": "四级词汇",
+	"type2": "四级考纲词汇",
+	"answer": [
+		"A",
+		"D"
+	],
+	"title": "appliance",
+	"explain": " Don't overuse heated appliances on you hair. ",
+	"options": [
+		{
+			"code": "A",
+			"option": "n.家用电器"
+		},
+		{
+			"code": "B",
+			"option": "n.差异"
+		},
+		{
+			"code": "C",
+			"option": "v.测量，估量"
+		},
+		{
+			"code": "D",
+			"option": "n.应用"
+		}
+	]
+}
+{
+	"_id": "44",
+	"type": "四级词汇",
+	"type2": "四级考纲词汇",
+	"answer": [
+		"D"
+	],
+	"title": "individual",
+	"explain": " The law applies to both individuals and corporate bodies. ",
+	"options": [
+		{
+			"code": "A",
+			"option": "n.调查"
+		},
+		{
+			"code": "B",
+			"option": "adj.持续不断的"
+		},
+		{
+			"code": "C",
+			"option": "v.提名"
+		},
+		{
+			"code": "D",
+			"option": "adj.个人的"
+		}
+	]
+}
+{
+	"_id": "45",
+	"type": "四级词汇",
+	"type2": "四级考纲词汇",
+	"answer": [
+		"B"
+	],
+	"title": "mere",
+	"explain": " For as a result of confusing the real world of nature with mere signs. ",
+	"options": [
+		{
+			"code": "A",
+			"option": "n.牛仔"
+		},
+		{
+			"code": "B",
+			"option": "adj.仅仅的，纯粹的"
+		},
+		{
+			"code": "C",
+			"option": "n.期望，预期"
+		},
+		{
+			"code": "D",
+			"option": "adj.个人的"
+		}
+	]
+}
+{
+	"_id": "46",
+	"type": "四级词汇",
+	"type2": "四级考纲词汇",
+	"answer": [
+		"C",
+		"D"
+	],
+	"title": "expert",
+	"explain": " Experts put the real figure at closer to 75%. ",
+	"options": [
+		{
+			"code": "A",
+			"option": "n.诱惑，引诱"
+		},
+		{
+			"code": "B",
+			"option": "adj.全能的"
+		},
+		{
+			"code": "C",
+			"option": "n.专家"
+		},
+		{
+			"code": "D",
+			"option": "adj.熟练的，专业的"
+		}
+	]
+}
+{
+	"_id": "47",
+	"type": "四级词汇",
+	"type2": "四级考纲词汇",
+	"answer": [
+		"B"
+	],
+	"title": "physical",
+	"explain": " Physical characteristics are determined by genetic inheritance. ",
+	"options": [
+		{
+			"code": "A",
+			"option": "n.革命，旋转"
+		},
+		{
+			"code": "B",
+			"option": "adj.身体的，肉体的"
+		},
+		{
+			"code": "C",
+			"option": "n.社会专家"
+		},
+		{
+			"code": "D",
+			"option": "n.深度，深刻"
+		}
+	]
+}
+{
+	"_id": "48",
+	"type": "四级词汇",
+	"type2": "四级考纲词汇",
+	"answer": [
+		"A",
+		"B"
+	],
+	"title": "process",
+	"explain": " Manufacturing processes may be affected by the functionality of the product. ",
+	"options": [
+		{
+			"code": "A",
+			"option": "n.过程，步骤"
+		},
+		{
+			"code": "B",
+			"option": "v.加工，处理"
+		},
+		{
+			"code": "C",
+			"option": "n.严格"
+		},
+		{
+			"code": "D",
+			"option": "n.教条，武断的意见"
+		}
+	]
+}
+{
+	"_id": "49",
+	"type": "四级词汇",
+	"type2": "四级考纲词汇",
+	"answer": [
+		"A"
+	],
+	"title": "distinguish",
+	"explain": " Sometimes reality and fantasy are hard to distinguish.",
+	"options": [
+		{
+			"code": "A",
+			"option": "v.识别"
+		},
+		{
+			"code": "B",
+			"option": "v.加工，处理"
+		},
+		{
+			"code": "C",
+			"option": "n.代表团"
+		},
+		{
+			"code": "D",
+			"option": "adj.可吃的"
+		}
+	]
+}
+{
+	"_id": "50",
+	"type": "四级词汇",
+	"type2": "四级考纲词汇",
+	"answer": [
+		"C"
+	],
+	"title": "horizon",
+	"explain": " The city was just a red glow on the horizon.",
+	"options": [
+		{
+			"code": "A",
+			"option": "v.识别"
+		},
+		{
+			"code": "B",
+			"option": "v.注射"
+		},
+		{
+			"code": "C",
+			"option": "n.地平线，眼界"
+		},
+		{
+			"code": "D",
+			"option": "adj.巍峨的"
+		}
+	]
+}
+{
+	"_id": "51",
+	"type": "句式",
+	"type2": "翻译常用句式",
+	"answer": [
+		"A"
+	],
+	"title": "A case in point is ...",
+	"explain": "一个典型的例子是...",
+	"options": [
+		{
+			"code": "A",
+			"option": "记住了"
+		},
+		{
+			"code": "B",
+			"option": "不清楚"
+		}
+	]
+}
+
+{
+	"_id": "52",
+	"type": "句式",
+	"type2": "翻译常用句式",
+	"answer": [
+		"A"
+	],
+	"title": "As is often the as...",
+	"explain": "由于通常情况下…",
+	"options": [
+		{
+			"code": "A",
+			"option": "记住了"
+		},
+		{
+			"code": "B",
+			"option": "不清楚"
+		}
+	]
+}
+{
+	"_id": "53",
+	"type": "句式",
+	"type2": "翻译常用句式",
+	"answer": [
+		"A"
+	],
+	"title": "As stated in the previous paragraph",
+	"explain": "如前段所述…",
+	"options": [
+		{
+			"code": "A",
+			"option": "记住了"
+		},
+		{
+			"code": "B",
+			"option": "不清楚"
+		}
+	]
+}
+{
+	"_id": "54",
+	"type": "句式",
+	"type2": "翻译常用句式",
+	"answer": [
+		"A"
+	],
+	"title": "In view of the present station.",
+	"explain": "鉴于目前形势",
+	"options": [
+		{
+			"code": "A",
+			"option": "记住了"
+		},
+		{
+			"code": "B",
+			"option": "不清楚"
+		}
+	]
+}
+{
+	"_id": "55",
+	"type": "句式",
+	"type2": "翻译常用句式",
+	"answer": [
+		"A"
+	],
+	"title": "Therefore, we have the reason to believe that…",
+	"explain": "因此,我们有理由相信…",
+	"options": [
+		{
+			"code": "A",
+			"option": "记住了"
+		},
+		{
+			"code": "B",
+			"option": "不清楚"
+		}
+	]
+}
+{
+	"_id": "56",
+	"type": "句式",
+	"type2": "翻译常用句式",
+	"answer": [
+		"A"
+	],
+	"title": "It may be safely said that…",
+	"explain": "它可以有把握地说...",
+	"options": [
+		{
+			"code": "A",
+			"option": "记住了"
+		},
+		{
+			"code": "B",
+			"option": "不清楚"
+		}
+	]
+}
+{
+	"_id": "57",
+	"type": "句式",
+	"type2": "翻译常用句式",
+	"answer": [
+		"A"
+	],
+	"title": "Take ... for example",
+	"explain": "以…为例",
+	"options": [
+		{
+			"code": "A",
+			"option": "记住了"
+		},
+		{
+			"code": "B",
+			"option": "不清楚"
+		}
+	]
+}
+{
+	"_id": "58",
+	"type": "句式",
+	"type2": "翻译常用句式",
+	"answer": [
+		"A"
+	],
+	"title": "The same is true of…",
+	"explain": "同样如此",
+	"options": [
+		{
+			"code": "A",
+			"option": "记住了"
+		},
+		{
+			"code": "B",
+			"option": "不清楚"
+		}
+	]
+}
+{
+	"_id": "59",
+	"type": "句式",
+	"type2": "翻译常用句式",
+	"answer": [
+		"A"
+	],
+	"title": "Along with the development of…，more and more…",
+	"explain": "随…的发展，越来越多…",
+	"options": [
+		{
+			"code": "A",
+			"option": "记住了"
+		},
+		{
+			"code": "B",
+			"option": "不清楚"
+		}
+	]
+}
+{
+	"_id": "60",
+	"type": "句式",
+	"type2": "翻译常用句式",
+	"answer": [
+		"A"
+	],
+	"title": "There are different opinions among people as to... .Some people suggest that...",
+	"explain": "人们有不同的观点。一些人认为....",
+	"options": [
+		{
+			"code": "A",
+			"option": "记住了"
+		},
+		{
+			"code": "B",
+			"option": "不清楚"
+		}
+	]
+}

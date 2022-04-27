@@ -1,0 +1,12 @@
+<view class="top_root">
+  <view class="top_btn" bindtap="goQuestions">去答题赚积分</view>
+</view>
+<view>
+  <view class="tip">积分排名榜</view>
+  <block wx:for="{{userList}}" wx:key="index">
+    <view class="item_root {{index==0?'red':''}}">
+      <text>{{index+1}}:{{item.name?item.name:item.nickName}}</text>
+      <text>{{item.score?item.score:0}}分</text>
+    </view>
+  </block>
+</view>

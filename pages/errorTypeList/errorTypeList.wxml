@@ -1,0 +1,7 @@
+<view class="tip">{{type}}错题</view>
+<block wx:for="{{list}}" wx:key="index">
+  <view class="item">
+    <text>{{item._id}}({{item.num}}道错题)</text>
+    <text class="btn" bindtap="goDetail" data-type2="{{item._id}}">去复习</text>
+  </view>
+</block>

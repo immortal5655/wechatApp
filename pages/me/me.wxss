@@ -1,0 +1,56 @@
+/* pages/me.wxss */
+
+page {
+  background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+}
+
+.header {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 15px;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.5);
+}
+
+.btn-login {
+  padding: 100rpx;
+  background: rgba(255, 255, 255, 0.5);
+  
+}
+
+.userinfo-avatar {
+  border-radius: 128rpx;
+  width: 128rpx;
+  height: 128rpx;
+  margin-block-start: 10px;
+
+}
+
+.userinfo-nickname {
+  margin-top: 20rpx;
+  font-size: 38rpx;
+}
+
+.tuichu {
+  color: #fa8072;
+  padding: 20rpx;
+}
+
+/*  下面是关键去除边框 */
+.button {
+  width: 100%;
+  background: rgba(255, 255, 255, 0);
+  border: none;
+  text-align: left;
+  padding: 0px;
+  margin: 0px;
+  line-height: 1.5;
+  font-size: 16px
+}
+
+/*  下面是关键去除边框 */
+.button::after {
+  border: none;
+  border-radius: 0;
+}

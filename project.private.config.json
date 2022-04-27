@@ -1,0 +1,120 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "pages/ranking/ranking",
+          "pathName": "pages/ranking/ranking",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/detail/detail",
+          "pathName": "pages/detail/detail",
+          "query": "id=21ded5cb5ffd9d9704bbcaca0328a51c",
+          "scene": null
+        },
+        {
+          "name": "pages/me/me",
+          "pathName": "pages/me/me",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/news/news",
+          "pathName": "pages/news/news",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/shoucang/shoucang",
+          "pathName": "pages/shoucang/shoucang",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/questions/questions",
+          "pathName": "pages/questions/questions",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/voice/voice",
+          "pathName": "pages/voice/voice",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/change/change",
+          "pathName": "pages/change/change",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/publish/publish",
+          "pathName": "pages/publish/publish",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/myVoice/myVoice",
+          "pathName": "pages/myVoice/myVoice",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/questionsError/questionsError",
+          "pathName": "pages/questionsError/questionsError",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/race/race",
+          "pathName": "pages/race/race",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/tushujieyue/tushujieyue",
+          "pathName": "pages/tushujieyue/tushujieyue",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/typeList/typeList",
+          "pathName": "pages/typeList/typeList",
+          "query": "type=数学",
+          "scene": null
+        },
+        {
+          "name": "pages/errorList/errorList",
+          "pathName": "pages/errorList/errorList",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/errorTypeList/errorTypeList",
+          "pathName": "pages/errorTypeList/errorTypeList",
+          "query": "type=数学",
+          "scene": null
+        },
+        {
+          "name": "pages/errorQuestions/errorQuestions",
+          "pathName": "pages/errorQuestions/errorQuestions",
+          "query": " type=数学&type2=初中数学",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

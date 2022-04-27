@@ -1,0 +1,34 @@
+.top_root {
+  display: flex;
+  justify-content: center;
+}
+
+.top_btn {
+  color: white;
+  width: 500rpx;
+  height: 80rpx;
+  line-height: 80rpx;
+  margin: 10rpx;
+  text-align: center;
+  background: #FF8247;
+}
+
+.tip {
+  font-size: 46rpx;
+  color: var(--themeColor);
+  margin: 20rpx;
+}
+
+.red {
+  color: red;
+}
+
+
+
+.item_root {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid gainsboro;
+  padding: 5rpx;
+  margin: 20rpx;
+}

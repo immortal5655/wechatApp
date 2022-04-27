@@ -1,0 +1,27 @@
+<!-- 轮播图区域 -->
+
+
+<swiper indicator-dots="{{true}}" indicator-active-color="#ff0000" autoplay="true" circular="true" 	>
+  <swiper-item wx:for="{{topImgs}}" wx:key="index" bindtap="goQuestionList" data-type="{{item.type}}">
+    <image class="lunbotu" src="{{item.url}}" mode="aspectFill"></image>
+  </swiper-item>
+</swiper>
+
+<!-- 分类答题 -->
+<!-- <view class="top" bindtap="goRandom">
+  随便练练
+</view> -->
+<view class="item_root">
+  <block wx:for="{{list}}" wx:key="index">
+    <view class="item" bindtap="goQuestionList" data-type="{{item._id}}">{{item._id}}</view>
+  </block>
+</view>
+
+
+
+ <view class="wordCard">
+  <view class="tbc">
+    敬请期待...
+  </view>
+</view>
+

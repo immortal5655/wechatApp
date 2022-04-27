@@ -1,0 +1,168 @@
+page{
+  /* background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%); */
+
+  background-color: #f1dfd1;
+  background-image: linear-gradient(315deg, #f1dfd1 0%, #f6f0ea 74%);
+}
+.head{
+  display: flex;
+  align-items: center;
+  padding-right: 40rpx;
+  justify-content: space-between;
+}
+.tip {
+  height: 75rpx;
+  width: 400rpx;
+  margin-top: 25rpx;
+  text-align: center;
+  line-height: 72rpx;
+  color: #fff;
+  background-color: #FF7070;
+  box-shadow: 5rpx 5rpx 5rpx #F28665 inset;
+  border-top-right-radius: 50rpx;
+  border-bottom-right-radius: 50rpx;
+  font-size: 32rpx;
+}
+.type {
+  align-self:center;
+  float:right;
+  margin-top: 35rpx; 
+  margin-right: 0rpx;
+  width: 250rpxpx;
+  height: 50rpx;
+  text-align: center;
+	color: #fff;
+	background-color: #F38630;
+	border: none;
+	border-radius: 15px;
+	box-shadow: 0 5px #FA6900;
+  margin-bottom: 20rpx;
+}
+
+.info{
+  width:660rpx;
+  padding: 0 0rpx;
+  margin: auto;
+  margin-top: 30rpx;
+  margin-bottom: 35rpx;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #fff;
+  border-radius: 40rpx;
+  margin-bottom: 30rpx;
+  box-shadow: 0px 20px 50px -10px #e6c09f;
+  color: #666;
+}
+
+.title{
+  width:660rpx;
+  color: #060606;
+  font-size:45rpx;
+  margin-top: 25rpx;
+  text-align: center;
+}
+.opt{
+  height:120rpx;
+ 
+  width:660rpx;
+  padding: 0 0rpx;
+  margin: auto;
+  margin-top: 40rpx;
+  margin-bottom: 20rpx;
+  display: flex;
+  /* flex-direction: column; */
+  align-items: center;
+  justify-content: space-around;
+  background-color: rgba(255, 255,255,0.9);
+  border-radius: 40rpx;
+  
+  
+  
+}
+
+.jiexi{
+  margin: auto;
+  /* margin-top: 100rpx; */
+  width:660rpx;
+  padding-top: 30rpx;
+  padding-bottom: 30rpx;
+  
+  display: flex;
+  flex-direction: column;
+
+  background-color: rgba(255,255,255,0.9);
+  border-radius: 40rpx;
+
+}
+
+.jiexi text{
+  margin-left: 30rpx;
+  color: #666;
+}
+
+.jiexi view{
+  margin-left: 30rpx;
+  margin-right: 30rpx;
+}
+
+.item {
+  margin: 20rpx;
+  margin-bottom: 30rpx;
+}
+
+.red {
+  font-size: 32rpx;
+  color: red;
+}
+
+.rigth_option {
+  font-size: 32rpx;
+  color: green;
+}
+.buttons{
+  position:fixed;
+  right: 0rpx;
+  left:0rpx;
+  margin: auto;
+  bottom: 80rpx;
+}
+.btn_root {
+  width: 660rpx;
+  margin: auto;
+  margin-top: 40rpx;
+  margin-bottom: 20rpx;
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.btn_jmp{
+  height:90rpx;
+  line-height: 90rpx;
+  text-align: center;
+  width:200rpx;
+  border:2px solid#ef9421;
+  border-radius: 20rpx;
+  background-color: rgba(255, 255, 255, 0.9);
+  
+}
+
+.btn_jmp text{
+  color: #fbb03b;
+  font-size: 35rpx;
+}
+
+.delbtn{
+  width: 200rpx;
+  height: 90rpx;
+  line-height: 90rpx;
+  margin: auto;
+
+  background-color: #FF7070;
+  border-radius: 20rpx;
+  text-align: center;
+  color: white;
+}
+

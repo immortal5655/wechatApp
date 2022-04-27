@@ -1,0 +1,52 @@
+/* pages/shouye/shouye.wxss */
+page {
+  background-color: #fff
+}
+
+/* 题目类型 */
+.item_root {
+  align-content: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: 20rpx;
+  
+}
+
+.item {
+  color: white;
+  margin-top: 20rpx;
+  width: 49%;
+  height: 200rpx;
+  line-height: 200rpx;
+  text-align: center;
+  background-image: linear-gradient( 135deg, #3C8CE7 10%, #00EAFF 100%);
+  border-radius: 15rpx;
+}
+
+
+.item_root :nth-child(2n) {
+  background-image: linear-gradient( 135deg, #FCCF31 10%, #F55555 100%);
+}
+
+.item_root :nth-child(3n) {
+  background-image: linear-gradient( 135deg, #F6CEEC 10%, #D939CD 100%);
+}
+
+.item_root :nth-child(4n) {
+  background: #8A2BE2;
+}
+
+.item_root :nth-child(5n) {
+  background: #FF6A6A;
+}
+
+/* 没有错题 */
+.nothing {
+  color: white;
+  background: hotpink;
+  padding: 20rpx;
+  text-align: center;
+  margin: 60rpx
+}

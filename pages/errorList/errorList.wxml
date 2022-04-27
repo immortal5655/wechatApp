@@ -1,0 +1,8 @@
+<view class="item_root" wx:if="{{list&&list.length>0}}">
+  <block wx:for="{{list}}" wx:key="index">
+    <view class="item" bindtap="goQuestionList" data-type="{{item._id}}">{{item._id}}({{item.num}}道错题)</view>
+  </block>
+</view>
+<view wx:else class="nothing" bindtap="goHome">
+  没有错题啦,去答题页重新答题吧
+</view>

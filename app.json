@@ -1,0 +1,40 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/questionList/questionList",
+    "pages/questions/questions",
+    "pages/errorList/errorList",
+    "pages/errorTypeList/errorTypeList",
+    "pages/errorQuestions/errorQuestions",
+    "pages/change/change",
+    "pages/ranking/ranking",
+    "pages/me/me"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "答题小程序",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#8a8a8a",
+    "selectedColor": "#2f88ff",
+    "list": [{
+      "pagePath": "pages/home/home",
+      "text": "题库",
+      "iconPath": "images/home-no.png",
+      "selectedIconPath": "images/home-yes.png"
+    }, {
+      "pagePath": "pages/errorList/errorList",
+      "text": "错题集",
+      "iconPath": "images/news-no.png",
+      "selectedIconPath": "images/news-yes.png"
+    }, {
+      "pagePath": "pages/me/me",
+      "text": "我的",
+      "iconPath": "images/me-no.png",
+      "selectedIconPath": "images/me-yes.png"
+    }]
+  },
+  "sitemapLocation": "sitemap.json"
+}

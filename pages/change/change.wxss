@@ -1,0 +1,21 @@
+/* page {
+  padding: 20rpx;
+} */
+
+input {
+  border: 1px solid gray;
+}
+
+.tip {
+  margin-top: 20rpx;
+}
+
+.tip::before {
+  content: '*';
+  color: red;
+}
+
+button {
+  width: 70%;
+  margin-top: 40rpx;
+}

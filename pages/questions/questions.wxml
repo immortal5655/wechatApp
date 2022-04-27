@@ -1,0 +1,43 @@
+
+<view class="paperbg">
+  <view class="tip">当前第{{current}}题/共{{total}}题</view>
+  <view class="progressbar">
+    <progress class="progress" percent="{{percent}}"  border-radius='30' stroke-width="10"  active-mode="forwards" stroke-width="12" activeColor="#65e178" backgroundColor="#f8f8f8" active/>
+  </view>
+  <view class='info'>
+  <view class="type">
+    <text wx:if="{{subject.options.length==2}}">判断题</text>
+    <text wx:elif="{{subject.answer.length>1}}">多选题</text>
+    <text wx:else>单选题</text>
+  </view>
+  <view class='type'>{{subject.type2}}</view>
+  </view>
+  <view class="questionlist">
+      <view class="question">{{subject.title}}</view>
+      <!-- 单选和判断 -->
+      <radio-group wx:if="{{subject.answer.length==1}}" bindchange="selectClick">
+        <view wx:for="{{subject.options}}" wx:key="index" class="item" hover-class="choiceSelected">
+          <radio value="{{item.code}}" checked="{{isSelect}}" />
+          <text>{{item.code}}:{{item.option}}</text>
+        </view>
+      </radio-group>
+      <!-- 多选 -->
+      <checkbox-group wx:else bindchange="selectClick">
+        <view wx:for="{{subject.options}}" wx:key="index" class="item" hover-class="choiceSelected">
+          <checkbox value="{{item.code}}" checked="{{isSelect}}" />
+          <text>{{item.code}}:{{item.option}}</text>
+        </view>
+      </checkbox-group>
+  </view>
+<!-- 提交按钮 -->
+<button class='button' bindtap="submit" hidden="{{hideButton}}">提交答题</button>
+<!-- 得分和错题 -->
+
+<view class="scoretxt" wx:if="{{totalScore>-1}}">
+  <view class='score'>得分：{{totalScore}}</view>
+  <view class='error'bindtap="seeError" wx:if="{{totalError>0}}">
+    <view>您答错了{{totalError}}道题</view>
+    <text >点击查看您的错题集</text>
+  </view>
+</view>
+</view>

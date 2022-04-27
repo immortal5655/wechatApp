@@ -1,0 +1,7 @@
+<view class="tip">{{type}}</view>
+<block wx:for="{{list}}" wx:key="index">
+  <view class="item">
+    <text>{{item._id}}({{item.num}}道题)</text>
+    <text class="btn" bindtap="goDetail" data-type2="{{item._id}}">去答题</text>
+  </view>
+</block>

@@ -1,0 +1,9 @@
+<form catchsubmit="formSubmit" catchreset="formReset">
+  <text class="tip">姓名</text>
+  <input value="{{user.name}}" name="name"></input>
+  <text class="tip">年龄</text>
+  <input value="{{user.age}}" name="age"></input>
+  <text class="tip">电话/微信</text>
+  <input value="{{user.phone}}" name="phone" type="number" maxlength="11"></input>
+  <button type="primary" formType="submit">提交</button>
+</form>
